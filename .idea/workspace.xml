@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="" />
+    <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1P4N2X3PXNUIrPA7whm3Ok0D4Lg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Properties" />
   </component>
@@ -38,7 +52,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Principal (1)">
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.exercicios.Principal" />
+      <module name="herancaClasseAbstrata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.digitalHouse.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.digitalHouse.herancaClasseAbstrata.Principal" />
       <module name="herancaClasseAbstrata" />
@@ -54,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
@@ -70,5 +98,16 @@
       <updated>1565129201085</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
