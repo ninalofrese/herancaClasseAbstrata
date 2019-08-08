@@ -1,11 +1,11 @@
 package br.digitalHouse.tarefa;
 
 public class Funcionario extends Pessoa {
-    private String area;
-    private int taxa;
+    private double salario;
+    private double imposto;
 
     public void calculaImposto(){
-        
+        this.imposto = salario * (imposto/100);
     }
 
     @Override

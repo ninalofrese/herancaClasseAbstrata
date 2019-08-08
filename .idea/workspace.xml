@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" afterDir="false" />
@@ -11,6 +12,16 @@
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" afterDir="false" />
+>>>>>>> c8af220d8a7bb97f75f5b71822269aaa1002e2fb
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +63,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Principal (1)">
+    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.exercicios.Principal" />
+      <module name="herancaClasseAbstrata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.digitalHouse.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.digitalHouse.herancaClasseAbstrata.Principal" />
       <module name="herancaClasseAbstrata" />
@@ -68,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
