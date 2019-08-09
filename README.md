@@ -48,3 +48,7 @@ public abstract class Animal{
 - Pode ter construtor na classe abstrata, mas não pode instanciar diretamente ela, você pode sobrescrever o construtor em uma classe filha, e depois instanciar o construtor filho
 
 **Classe derivada**
+<<<<<<< HEAD
+```
+=======
+>>>>>>> c8af220d8a7bb97f75f5b71822269aaa1002e2fb
