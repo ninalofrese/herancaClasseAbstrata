@@ -83,4 +83,5 @@ public class Cachorro implements Saudavel{
 }
 ```
 
+- **Se uma classe abstrata implementa uma interface, ela não tem obrigação de pegar o método, mas as filhas sim.**
 

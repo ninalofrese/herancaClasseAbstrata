@@ -5,7 +5,6 @@ public abstract class Conta {
 
     // substitui consultar()
     public double getSaldo() {
-        System.out.println("Saldo: " + saldo);
         return saldo;
     }
 
