@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cheque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/exercicios/Principal.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
