@@ -2,6 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/.idea/digitalHouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Contrato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Documento.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Foto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Impressora.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Imprimivel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/impressora/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/CamaroteInferior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/CamaroteSuperior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/Ingresso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/Normal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/TesteMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/ingresso/VIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/Aviao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/Pato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/SuperHomem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/TorreDeControle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/voo/Voador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/.idea/digitalHouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/impressora/Contrato.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/impressora/Documento.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/impressora/Foto.java" afterDir="false" />
