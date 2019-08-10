@@ -18,6 +18,7 @@ Ele leva em consideração o tipo dos parâmetros
 
 **Super** serve para as classes filhas fazerem referência à construtores, atributos e métodos da classe pai
 Ela não altera nada
+Sempre que eu preciso pegar algo do pai, principalmente quando é protected.
 
 ```
 public Cachorro(String nomeDoAnimal){

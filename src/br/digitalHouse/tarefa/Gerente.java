@@ -3,30 +3,35 @@ package br.digitalHouse.tarefa;
 public class Gerente extends Funcionario {
     private String area;
 
-    public Gerente(double novoSalario, String novaArea) {
-        super(novoSalario);
+    public Gerente(String novoNome, Data novoNascimento, double novoSalario, String novaArea) {
+        super(novoNome, novoNascimento, novoSalario);
         area = novaArea;
     }
 
-    public String getArea(){
+    public String getArea() {
         return area;
     }
 
-    public void setArea(String novaArea){
+    public void setArea(String novaArea) {
         area = novaArea;
     }
 
+    // Ele não obriga a herdar o imprimeDados, mas podemos sobrescrever porque temos no diagrama
+
+    // não dá pra ser void sem parâmetro
     @Override
-    public void setImposto(double imposto) {
-        imposto = 5.0;
-        super.setImposto(imposto);
+    public double calculaImposto() {
+        double callImposto = super.getSalario() * 0.05;
+        setImposto(super.getSalario() * 0.05);
+        return callImposto;
     }
 
     @Override
-    public void calculaImposto() {
-        System.out.println("Nome: " + getNome());
-        System.out.println("Nascimento: " + getNascimento());
+    public void imprimeDados() {
+        super.imprimeDados();
+        //desnecessário porque ele tá usando a sobrescrita do calculaImposto quando roda o objeto Gerente
+        //double salarioComImposto = super.getSalario() - calculaImposto();
+        //mas eu poderia usar se eu não usasse o super
         System.out.println("Area: " + area);
-        System.out.println("Salário: " + (getSalario() - getImposto()));
     }
 }

@@ -2,13 +2,13 @@ package br.digitalHouse.tarefa;
 
 public class Funcionario extends Pessoa {
     private double salario;
-    private double imposto = 3.0;
+    private double imposto;
 
-    public Funcionario(String novoNome, String nascimento, double novoSalario){
-        setNome(novoNome);
-        //setNascimento(nascimento);
+    public Funcionario(String novoNome, Data novoNascimento, double novoSalario) {
+        super(novoNome, novoNascimento);
         salario = novoSalario;
     }
+
 
     public double getSalario() {
         return salario;
@@ -26,15 +26,18 @@ public class Funcionario extends Pessoa {
         this.imposto = imposto;
     }
 
-    public void calculaImposto() {
-        this.imposto = salario * (imposto / 100);
+    public double calculaImposto() {
+        imposto = salario * 0.03;
+
+        return imposto;
     }
 
     @Override
     public void imprimeDados() {
         System.out.println("Nome: " + getNome());
-        System.out.println("Nascimento: " + getNascimento());
-        System.out.println("Salário: " + (salario - imposto));
+        System.out.println("Nascimento: " + super.getNascimento().getDia() + "/" + super.getNascimento().getMes() + "/" + super.getNascimento().getAno());
+        double salarioComImposto = salario - calculaImposto();
+        System.out.println("Salário: " + salarioComImposto);
     }
 
 

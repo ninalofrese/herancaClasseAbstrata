@@ -6,10 +6,12 @@ public class Data {
     private int ano;
     String dataDeNascimento;
 
+    //o construtor nesse caso facilita para passar tudo de uma vez
     public Data(int novoDia, int novoMes, int novoAno) {
         dia = novoDia;
         mes = novoMes;
         ano = novoAno;
+        //se eu printar aqui, vai printar quando criar a data
     }
 
     public int getDia() {
@@ -28,6 +30,13 @@ public class Data {
         this.mes = mes;
     }
 
+    @Override
+    public String toString() {
+        return dia +
+                "/" + mes +
+                "/" + ano;
+    }
+
     public int getAno() {
         return ano;
     }
@@ -35,5 +44,6 @@ public class Data {
     public void setAno(int ano) {
         this.ano = ano;
     }
+
 
 }
