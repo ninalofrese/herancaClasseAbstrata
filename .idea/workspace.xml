@@ -2,23 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/CadastroPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Imposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/TestaCadastro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/ContaCorrente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/aula.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/CadastroPessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/CadastroPessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Gerente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/TestaCadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/TestaCadastro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/CadastroPessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/tarefa/TestaCadastro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/CadastroPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/TestaCadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/TestaCadastro.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,10 +51,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/br/digitalhouse/herancaClasseAbstrata" />
       <recent name="$PROJECT_DIR$/src/br/digitalhouse" />
@@ -64,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestaCadastro">
+  <component name="RunManager" selected="Application.TestaCadastro (1)">
     <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.digitalHouse.exercicios.Principal" />
       <module name="herancaClasseAbstrata" />
@@ -104,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.herancaClasseAbstrata.Principal" />
+    <configuration name="TestaCadastro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.tarefaInterface.TestaCadastro" />
       <module name="herancaClasseAbstrata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.digitalHouse.herancaClasseAbstrata.*" />
+          <option name="PATTERN" value="br.digitalHouse.tarefaInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="TestaCadastro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.tarefa.TestaCadastro" />
+      <option name="MAIN_CLASS_NAME" value="br.digitalHouse.tarefaAbstrata.TestaCadastro" />
       <module name="herancaClasseAbstrata" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.digitalHouse.tarefa.*" />
+          <option name="PATTERN" value="br.digitalHouse.tarefaAbstrata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaCadastro (1)" />
         <item itemvalue="Application.TestaCadastro" />
         <item itemvalue="Application.Principal (3)" />
         <item itemvalue="Application.Principal (2)" />
         <item itemvalue="Application.Principal (1)" />
-        <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
   </component>
@@ -170,14 +181,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java</url>
+          <url>file://$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Funcionario.java</url>
           <line>36</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java</url>
+          <url>file://$PROJECT_DIR$/src/br/digitalHouse/tarefaAbstrata/Gerente.java</url>
           <line>30</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/digitalHouse/tarefaInterface/Gerente.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

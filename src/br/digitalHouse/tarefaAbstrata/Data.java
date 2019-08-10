@@ -1,4 +1,4 @@
-package br.digitalHouse.tarefa;
+package br.digitalHouse.tarefaAbstrata;
 
 public class Data {
     private int dia;

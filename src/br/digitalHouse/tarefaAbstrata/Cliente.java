@@ -1,4 +1,4 @@
-package br.digitalHouse.tarefa;
+package br.digitalHouse.tarefaAbstrata;
 
 public class Cliente extends Pessoa {
     private int codigo;

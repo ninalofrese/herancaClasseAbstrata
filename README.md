@@ -57,6 +57,7 @@ public abstract class Animal{
 - sem atributos
 - os métodos de uma interface não tem implementação lógica, precisa ser sobrescrito
 - intermedia a comunicação
+
 **Quando usar**
 - é melhor que tenha várias interfaces com um único método
 - é utilizado quando uma classe precisa de dois "pais". Não dá pra ser uma classe abstrata porque seria herança múltipla, então se cria uma interface para isso

@@ -1,4 +1,4 @@
-package br.digitalHouse.tarefa;
+package br.digitalHouse.tarefaAbstrata;
 
 public abstract class Pessoa {
     private String nome;

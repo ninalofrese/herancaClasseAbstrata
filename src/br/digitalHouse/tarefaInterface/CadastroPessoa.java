@@ -1,4 +1,4 @@
-package br.digitalHouse.tarefa;
+package br.digitalHouse.tarefaInterface;
 
 import java.util.ArrayList;
 import java.util.List;
