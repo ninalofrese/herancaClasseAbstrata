@@ -1,22 +1,38 @@
 package br.digitalHouse.tarefa;
 
 public class Data {
-    public int dia;
-    public int mes;
-    public int ano;
+    private int dia;
+    private int mes;
+    private int ano;
+    String dataDeNascimento;
 
-    public String getData(){
-        String data = dia + "/" + mes + "/" + ano;
-        return data;
+    public Data(int novoDia, int novoMes, int novoAno) {
+        dia = novoDia;
+        mes = novoMes;
+        ano = novoAno;
     }
 
     public int getDia() {
         return dia;
     }
 
-    public void setData(int dia, int mes, int ano){
+    public void setDia(int dia) {
         this.dia = dia;
+    }
+
+    public int getMes() {
+        return mes;
+    }
+
+    public void setMes(int mes) {
         this.mes = mes;
+    }
+
+    public int getAno() {
+        return ano;
+    }
+
+    public void setAno(int ano) {
         this.ano = ano;
     }
 

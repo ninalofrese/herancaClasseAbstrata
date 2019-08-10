@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6074fd9-f47e-4e37-a07c-91180f59a44b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/META-INF/herancaClasseAbstrata.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Brincavel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Pessoa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/herancaClasseAbstrata/diferenca-classe-interface-uml.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/TestaCadastro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/ContaCorrente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/bancoSantander/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/Cheque.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/ContaCorrente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/ContaPoupanca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/exercicios/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/aula.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/herancaClasseAbstrata/aula.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Cachorro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/herancaClasseAbstrata/br/digitalHouse/interfaces/Cachorro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/bancoSantander/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/CadastroPessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/digitalHouse/tarefa/Pessoa.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
