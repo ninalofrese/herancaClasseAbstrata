@@ -2,6 +2,7 @@ package br.digitalHouse.bancoSantander;
 
 public class ContaCorrente extends Conta {
     private double limite;
+    private double limiteMaximo;
 
     public double getLimite() {
         return limite;
@@ -9,6 +10,7 @@ public class ContaCorrente extends Conta {
 
     public void setLimite(double limite) {
         this.limite = limite;
+        limiteMaximo = limite;
     }
 
     @Override
@@ -16,14 +18,13 @@ public class ContaCorrente extends Conta {
         System.out.println("Valor desejado: " + valor);
 
         if (this.getSaldo() < valor) {
-            if (limite > valor) { //talvez voltar aqui para checar se o limite + saldo > valor
-                System.out.println("Sacando do limite");
-                if (getSaldo() > 0) {
-                    this.setSaldo(getSaldo() - valor);
-                    limite = limite - (getSaldo() + valor);
-                } else {
-                    this.setSaldo(this.getSaldo() - valor);
-                    limite = limite - (valor - this.getSaldo());
+            if (this.getSaldo() + limite > valor) {
+                this.setSaldo(this.getSaldo() - valor);
+
+                if (getSaldo() < 0) {
+                    limite += getSaldo();
+                    double resto = Math.abs(this.getSaldo());
+                    setSaldo(0);
                 }
                 System.out.println("Saque realizado. Novo saldo: " + this.getSaldo());
                 System.out.println("Você tem somente " + limite + " do seu limite do cheque especial");
@@ -34,12 +35,34 @@ public class ContaCorrente extends Conta {
             this.setSaldo(this.getSaldo() - valor);
         }
 
-
     }
 
     public void depositar(Cheque cheque) {
-        System.out.println("Valor de depósito: " + cheque.getValor());
-        this.setSaldo(this.getSaldo() + cheque.getValor());
-        System.out.println("Saldo atualizado: " + this.getSaldo());
+        System.out.println("Valor depositado: " + cheque.getValor());
+
+        limite = limite + cheque.getValor();
+
+        if (limite > limiteMaximo) {
+            this.setSaldo(this.getSaldo() + limite - limiteMaximo);
+            limite = limiteMaximo;
+        }
+        System.out.println("Depósito realizado. Novo saldo: " + this.getSaldo());
+        System.out.println("Seu limite é de: " + limite);
+        
+    }
+
+    //Usei o limite também no depósito
+    @Override
+    public void depositar(double valor) {
+        System.out.println("Valor depositado: " + valor);
+
+        limite = limite + valor;
+
+        if (limite > limiteMaximo) {
+            this.setSaldo(this.getSaldo() + limite - limiteMaximo);
+            limite = limiteMaximo;
+        }
+        System.out.println("Depósito realizado. Novo saldo: " + this.getSaldo());
+        System.out.println("Seu limite é de: " + limite);
     }
 }
